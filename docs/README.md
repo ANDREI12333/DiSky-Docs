@@ -72,4 +72,4 @@ skript reload %your-skript-name%.sk
 We are done, We've just made a discord bot with DiSky!
 
 **Check out my other documentation tutorials!**
-* None
+* [Commands](https://github.com/ANDREI12333/DiSky-Docs/blob/main/docs/Commands.md)
