@@ -52,6 +52,16 @@ Then click on "Copy"
 
 **MAKE SURE TO KEEP YOUR BOT'S TOKEN PRIVATE IT IS A SECRET**, I'm only showing it to you as i will delete this application later!
 
+Now lets enable the correct bot intents! (Enable the following checkboxes)
+
+![image](https://user-images.githubusercontent.com/72381315/171686417-bd04da14-2d3d-4e9a-84e4-8d1e8c054b84.png)
+
+
+[Optional] If you would like to make your bot private
+Uncheck the following box
+![image](https://user-images.githubusercontent.com/72381315/171686557-b304a104-a16a-4924-bf7e-09d6940a525d.png)
+
+
 Now lets link our discord bot to skript
 
 ```
