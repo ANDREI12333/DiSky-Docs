@@ -59,6 +59,7 @@ Now lets enable the correct bot intents! (Enable the following checkboxes)
 
 [Optional] If you would like to make your bot private
 Uncheck the following box
+
 ![image](https://user-images.githubusercontent.com/72381315/171686557-b304a104-a16a-4924-bf7e-09d6940a525d.png)
 
 
