@@ -84,3 +84,5 @@ We are done, We've just made a discord bot with DiSky!
 
 **Check out my other documentation tutorials!**
 * [Commands](https://github.com/ANDREI12333/DiSky-Docs/blob/main/docs/Commands.md)
+
+OTgyNjI5NjQxNzg3NDMzMDIx.GGHHmE.3KM6q5FAbcvFYzoPe_4qAp8TjIDEdkwDnT85Gw
